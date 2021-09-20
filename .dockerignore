@@ -1,0 +1,9 @@
+__pycache__
+.idea/
+apps/
+data/
+python_connector_env/
+.gitignore
+.dockerignore
+pylintrc
+README.md
